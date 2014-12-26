@@ -470,8 +470,6 @@ smartImageMap.module = (function(options){
 				image: imageObj
 			});
 
-			console.log(imageObj.width);
-
 			theImage.on('mousedown touchstart', function(){
 				editlayer.destroy();
 				radiuslayer.destroy();
