@@ -1,14 +1,14 @@
 smartImageMapper 1.2
 =========
 
-a jQuery imagemap plugin to create dynamically imagemaps in html, svg and JSON format.
+a jQuery imagemap plugin tool to draw dynamically shapes and output the imagemaps in html, svg and JSON format.
 
-<a href="http://www.smart-sign.com/smartimagemap">demo</a>
+<a href="http://www.smart-sign.com/smartimagemapper" target="_blank">demo</a>
 
 Dependencies
 ------------
 
-jQuery and kinetic.js (html5 canvas library)
+jQuery and <a href="https://github.com/ericdrowell/KineticJS/" target="blank">kinetic.js</a> (html5 canvas library)
 
 
 Implementation
