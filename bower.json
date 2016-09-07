@@ -1,0 +1,27 @@
+{
+  "name": "smartImageMapper",
+  "homepage": "https://github.com/thooyork/smartImageMapper",
+  "authors": [
+    "thooyork <thomas@smart-sign.com>"
+  ],
+  "description": "dynamic JavaScript Imagemap Building tool",
+  "main": "js/smartimagemapper.1.2.js",
+  "keywords": [
+    "imagemap",
+    "svg",
+    "draw",
+    "tool"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.1",
+    "KineticJS": "kineticjs#^5.1.0"
+  }
+}
