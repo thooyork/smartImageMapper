@@ -1,6 +1,8 @@
 smartImageMapper 1.2
 =========
 
+![smartimagemapper](screenshot_sim.png?raw=true "smartimagemapper")
+
 a jQuery imagemap plugin tool to draw dynamically shapes and output the imagemaps in html, svg and JSON format.
 
 <a href="http://www.smart-sign.com/smartimagemapper" target="_blank">demo</a>
