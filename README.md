@@ -54,3 +54,12 @@ Options
 });
 </pre>
 
+## Features
+------------
+
+- In Polygon Mode hold shift key while clicking on the line will add a new Point.
+- Hold Alt Key while doubleclicking a polygon point will erase the point.
+
+- Known issues: The calculation of the distance of the point to be added to the line, sometimes takes the wrong line as reference, this is because in the calculation the lines themselves are infinite, and thus sometimes another (not visible section of the) line is nearer to the point than the line intended. 
+
+
